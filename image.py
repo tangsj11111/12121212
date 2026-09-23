@@ -19,5 +19,4 @@ def flip_image_horizontally(image_path):
 	return flipped_img
 # 测试
 if __name__ == "__main__":
-	res = 
-flip_image_horizontally("test.jpg")
+	result_img = flip_image_horizontally("test.jpg")
